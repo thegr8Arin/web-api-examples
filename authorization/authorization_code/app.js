@@ -14,7 +14,7 @@ var cors = require('cors');
 var querystring = require('querystring');
 var cookieParser = require('cookie-parser');
 
-var client_id = '233e9b508503421e9441079954508772'; // your clientId
+var client_id = '85f4a9a55fc44a1ca96584c25a9b07aa'; // your clientId
 var client_secret = '960734103f654a10a487d9f0bd04288a'; // Your secret
 var redirect_uri = 'file:///C:/My%20Web%20Sites/bad%20music/pudding.cool/2021/10/judge-my-music/index.html/?callback'; // Your redirect uri
 
